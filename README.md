@@ -2,6 +2,10 @@
 
 ### Getting started
 
+#### Github
+
+https://github.com/typicode/json-server
+
 #### Install JSON Server
 
 `npm i json-server`
